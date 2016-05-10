@@ -1,0 +1,7 @@
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service\bin\Debug\SA.RPS.Service.dll
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service\bin\Debug\SA.RPS.Service.pdb
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service\obj\Debug\SA.RPS.Service.csprojResolveAssemblyReference.cache
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service\obj\Debug\SA.RPS.Service.dll
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service\obj\Debug\SA.RPS.Service.pdb
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service\bin\Debug\SA.RPS.Library.dll
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service\bin\Debug\SA.RPS.Library.pdb

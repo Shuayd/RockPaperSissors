@@ -1,0 +1,12 @@
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Library.Tests\bin\Debug\SA.RPS.Library.Tests.dll
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Library.Tests\bin\Debug\SA.RPS.Library.Tests.pdb
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Library.Tests\bin\Debug\NSubstitute.dll
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Library.Tests\bin\Debug\NSubstituteAutoMocker.dll
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Library.Tests\bin\Debug\nunit.framework.dll
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Library.Tests\bin\Debug\SA.RPS.Library.dll
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Library.Tests\bin\Debug\SA.RPS.Library.pdb
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Library.Tests\bin\Debug\NSubstitute.xml
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Library.Tests\bin\Debug\nunit.framework.xml
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Library.Tests\obj\Debug\SA.RPS.Library.Tests.csprojResolveAssemblyReference.cache
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Library.Tests\obj\Debug\SA.RPS.Library.Tests.dll
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Library.Tests\obj\Debug\SA.RPS.Library.Tests.pdb

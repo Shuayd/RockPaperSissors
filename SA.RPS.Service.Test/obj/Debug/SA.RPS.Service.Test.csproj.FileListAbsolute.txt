@@ -1,0 +1,14 @@
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service.Test\bin\Debug\SA.RPS.Service.Test.dll
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service.Test\bin\Debug\SA.RPS.Service.Test.pdb
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service.Test\bin\Debug\NSubstitute.dll
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service.Test\bin\Debug\NSubstituteAutoMocker.dll
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service.Test\bin\Debug\nunit.framework.dll
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service.Test\bin\Debug\SA.RPS.Service.dll
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service.Test\bin\Debug\SA.RPS.Service.pdb
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service.Test\bin\Debug\NSubstitute.xml
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service.Test\bin\Debug\nunit.framework.xml
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service.Test\obj\Debug\SA.RPS.Service.Test.csprojResolveAssemblyReference.cache
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service.Test\obj\Debug\SA.RPS.Service.Test.dll
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service.Test\obj\Debug\SA.RPS.Service.Test.pdb
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service.Test\bin\Debug\SA.RPS.Library.dll
+c:\users\shuayd\documents\visual studio 2013\Projects\SA.RPS\SA.RPS.Service.Test\bin\Debug\SA.RPS.Library.pdb

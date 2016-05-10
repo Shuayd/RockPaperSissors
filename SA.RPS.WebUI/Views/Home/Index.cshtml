@@ -1,0 +1,70 @@
+﻿@{
+    ViewBag.Title = "Game - Rock, Paper, Sissors";
+}
+
+
+<div class="container">
+    <div class="row" id="score-container">
+        <div class="col-md-6" id="player">
+            <div>Player 1</div>
+            <span>0</span>
+        </div>
+        <div class="col-md-6" id="opponent">
+            <div>Player 2</div>
+            <span>0</span>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="col-md-6 input-lg" id="player-game">
+
+        </div>
+        <div class="col-md-6 input-lg" id="opponent-game">
+
+        </div>
+    </div>
+
+    <div id="gameplay-player">
+        <select onchange="app.game.play(this)">
+            <option value="Rock">Rock</option>
+            <option value="Paper">Paper</option>
+            <option value="Sissors">Sissors</option>
+        </select>
+
+    </div>
+    <br/>
+    <div>
+        <input type="button" id="playagain-btn" onclick="location.reload();" value="Play Again" />
+    </div>
+</div>
+
+
+
+<div id="selection">
+    <input type="button" value="Computer VS Computer" id="computer-btn" />
+    <input type="button" value="Player VS Computer" id="play-btn" />
+</div>
+
+@section Scripts{
+    <script src="~/Scripts/app/app.game.js"></script>
+    <script type="text/javascript">
+
+        $(function () {
+            $('#gameplay-player').hide();
+            $('#playagain-btn').hide();
+
+            $('#play-btn').on('click', function () {
+                $('#selection').hide();
+                $('#playagain-btn').show();
+                $('#gameplay-player').show();
+            });
+
+            $('#computer-btn').on('click', function () {
+                $('#selection').hide();
+                $('#playagain-btn').show();
+                app.game.runSimulation();
+            });
+        });
+    </script>
+}
