@@ -33,7 +33,7 @@ namespace SA.RPS.Service.Test.Service
         }
 
         [Test]
-        public void When_I_Call_IsWinner_Should_With_Player_As_Sissors_And_Opponent_As_Paper_Should_Return_True()
+        public void When_I_Call_IsWinner_With_Player_As_Sissors_And_Opponent_As_Paper_Return_True()
         {
             var player = GameCodeEnum.Sissors;
             var opponent = GameCodeEnum.Paper;
@@ -43,7 +43,7 @@ namespace SA.RPS.Service.Test.Service
         }
 
         [Test]
-        public void When_I_Call_IsWinner_Should_With_Player_As_Paper_And_Opponent_As_Rock_Should_Return_True()
+        public void When_I_Call_IsWinner_With_Player_As_Paper_And_Opponent_As_Rock_Return_True()
         {
             var player = GameCodeEnum.Paper;
             var opponent = GameCodeEnum.Rock;
@@ -54,7 +54,7 @@ namespace SA.RPS.Service.Test.Service
 
 
         [Test]
-        public void When_I_Call_IsWinner_Should_With_Player_As_Rock_And_Opponent_As_Sissors_Should_Return_True()
+        public void When_I_Call_IsWinner_With_Player_As_Rock_And_Opponent_As_Sissors_Return_True()
         {
             var player = GameCodeEnum.Rock;
             var opponent = GameCodeEnum.Sissors;
@@ -64,7 +64,7 @@ namespace SA.RPS.Service.Test.Service
         }
 
         [Test]
-        public void When_I_Call_IsWinner_Should_With_Player_As_Paper_And_Opponent_As_Sissors_Should_Return_False()
+        public void When_I_Call_IsWinner_With_Player_As_Paper_And_Opponent_As_Sissors_Return_False()
         {
             var player = GameCodeEnum.Paper;
             var opponent = GameCodeEnum.Sissors;
@@ -74,7 +74,7 @@ namespace SA.RPS.Service.Test.Service
         }
 
         [Test]
-        public void When_I_Call_IsWinner_Should_With_Player_As_Rock_And_Opponent_As_Papar_Should_Return_False()
+        public void When_I_Call_IsWinner_With_Player_As_Rock_And_Opponent_As_Papar_Return_False()
         {
             var player = GameCodeEnum.Rock;
             var opponent = GameCodeEnum.Paper;
@@ -84,7 +84,7 @@ namespace SA.RPS.Service.Test.Service
         }
 
         [Test]
-        public void When_I_Call_IsWinner_Should_With_Player_As_Paper_And_Opponent_As_Sissor_Should_Return_True()
+        public void When_I_Call_IsWinner_With_Player_As_Paper_And_Opponent_As_Sissor_Return_True()
         {
             var player = GameCodeEnum.Paper;
             var opponent = GameCodeEnum.Sissors;
